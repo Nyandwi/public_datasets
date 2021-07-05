@@ -1,0 +1,3 @@
+# public_datasets
+
+This is a temporary repository of datasets that I am using in an end to end Machine Learning resource that I am creating. More details soon...
